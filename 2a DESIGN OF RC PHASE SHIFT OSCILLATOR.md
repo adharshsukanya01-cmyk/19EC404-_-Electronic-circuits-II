@@ -13,11 +13,13 @@
 
 
 # Tabulation
-![Uploading WhatsApp Image 2025-12-05 at 11.09.47_d48bac64.jpg…]()
+![WhatsApp Image 2025-12-05 at 11 09 47_4d233d78](https://github.com/user-attachments/assets/a2148664-761b-47f3-85c2-6b0c9fecee85)
+
 
 
 # Graph
-![Uploading WhatsApp Image 2025-12-05 at 11.09.45_a128767b.jpg…]()
+![WhatsApp Image 2025-12-05 at 11 09 45_5ef36d10](https://github.com/user-attachments/assets/25b41463-4fc2-4cbc-8d4b-635c0d81db2b)
+
 
 
 
