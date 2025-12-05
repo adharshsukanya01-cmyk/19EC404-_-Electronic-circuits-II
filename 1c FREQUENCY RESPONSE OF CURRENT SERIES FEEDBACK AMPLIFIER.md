@@ -15,7 +15,7 @@
 
 
 # Tabulation
-![Uploading WhatsApp Image 2025-12-05 at 11.09.39_12bbbd82.jpg…]()
+![Uploading WhatsApp Image 2025-12-05 at 11.09.39_12bbbd82.jpg…]() 
 
 
 # Graph
