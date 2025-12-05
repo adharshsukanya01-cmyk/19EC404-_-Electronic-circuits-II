@@ -13,12 +13,13 @@
 
 
 # Tabulation
+![WhatsApp Image 2025-12-05 at 11 10 00_8f9622cf](https://github.com/user-attachments/assets/fbc06858-4964-434f-a6c6-947818568140)
 
 
 # Graph
-
-
-# Sample images 
+![WhatsApp Image 2025-12-05 at 11 10 00_a57a76bb](https://github.com/user-attachments/assets/32ac079a-a33f-4b99-8a82-f09c513705e9)
+![WhatsApp Image 2025-12-05 at 11 09 59_e7f403e2](https://github.com/user-attachments/assets/b609b804-2789-4613-88cd-f3e59fd55152)
+ 
 
 
 # Result
