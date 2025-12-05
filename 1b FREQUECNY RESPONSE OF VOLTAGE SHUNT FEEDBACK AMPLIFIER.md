@@ -15,24 +15,17 @@
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
 # Tabulation
+![WhatsApp Image 2025-12-05 at 11 09 38_808d3281](https://github.com/user-attachments/assets/7ee22d46-4c84-40fb-a917-4f7ea1459131)
 
 
 # Graph
-
-
-# Sample images 
+![WhatsApp Image 2025-12-05 at 11 09 37_8f19f511](https://github.com/user-attachments/assets/710eb751-351d-43e2-8ccd-f342281cbeeb)
 
 
 ### **Result**
 
-Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
-| S.No | Parameters | Without Feedback | With Feedback |
-|:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+Thus the voltage shunt feedback amplifier is designed and constructed.
+
 
 ---
 
